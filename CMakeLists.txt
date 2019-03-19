@@ -3,4 +3,4 @@ project(Dynamic-planning)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Dynamic-planning main.cpp)
+add_executable(Dynamic-planning BagProblem.cpp)
